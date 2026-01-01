@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAGICROST
+- 👋 Hi, I’m @MAGICFROST
 - 👀 I’m interested in creating bots
 - 🌱 I’m currently learning on the programmer
 - 💞️ I’m looking to collaborate on ...
